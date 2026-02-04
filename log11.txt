@@ -1,0 +1,11534 @@
+ID: 2
+--- Execution Stack ---
+(int v;(Ref(int) a;(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+int v
+(Ref(int) a;(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a)))))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+int v
+(Ref(int) a;(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a)))))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+int v
+(Ref(int) a;(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a)))))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+int v
+(Ref(int) a;(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a)))))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+Ref(int) a
+(v=10;(new(a, 22);(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))))
+
+--- Symbol Table ---
+v -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+new(a, 22)
+(fork((wH(a, 30);(v=32;(print(v);print(rH(a))))));(print(v);(int timer;(while((timer < 10)) timer=(timer + 1);print(rH(a))))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+(wH(a, 30);(v=32;(print(v);print(rH(a)))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+print(rH(a))
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 0
+v -> 10
+
+--- Output ---
+10
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+wH(a, 30)
+(v=32;(print(v);print(rH(a))))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+while((timer < 10)) timer=(timer + 1)
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 6
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+v=32
+(print(v);print(rH(a)))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 10
+
+--- Output ---
+10
+22
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+print(rH(a))
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 2
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (1, int)
+timer -> 10
+v -> 10
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+
+ID: 3
+--- Execution Stack ---
+
+--- Symbol Table ---
+a -> (0, int)
+v -> 32
+
+--- Output ---
+10
+22
+32
+
+--- File Table ---
+
+--- Heap ---
+1 -> 22
+
+----------------------------------------------------------------
+

@@ -1,0 +1,2092 @@
+ID: 1
+--- Execution Stack ---
+(int x;(x=10;(int y;(y=12;(bool b;(b=(x < y);print(b)))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+int x
+(x=10;(int y;(y=12;(bool b;(b=(x < y);print(b))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+int x
+(x=10;(int y;(y=12;(bool b;(b=(x < y);print(b))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+int x
+(x=10;(int y;(y=12;(bool b;(b=(x < y);print(b))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+int x
+(x=10;(int y;(y=12;(bool b;(b=(x < y);print(b))))))
+
+--- Symbol Table ---
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+x=10
+(int y;(y=12;(bool b;(b=(x < y);print(b)))))
+
+--- Symbol Table ---
+x -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+(y=12;(bool b;(b=(x < y);print(b))))
+
+--- Symbol Table ---
+x -> 10
+y -> 0
+
+--- Output ---
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+
+ID: 1
+--- Execution Stack ---
+
+--- Symbol Table ---
+b -> true
+x -> 10
+y -> 12
+
+--- Output ---
+true
+
+--- File Table ---
+
+--- Heap ---
+
+----------------------------------------------------------------
+

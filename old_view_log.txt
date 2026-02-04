@@ -1,0 +1,87 @@
+--- Execution Stack ---
+(bool a;(int v;(a=true;((IF(a) THEN(v=2)ELSE(v=3));print(v)))))
+--- Symbol Table ---
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+bool a
+(int v;(a=true;((IF(a) THEN(v=2)ELSE(v=3));print(v))))
+--- Symbol Table ---
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+(int v;(a=true;((IF(a) THEN(v=2)ELSE(v=3));print(v))))
+--- Symbol Table ---
+a -> false
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+int v
+(a=true;((IF(a) THEN(v=2)ELSE(v=3));print(v)))
+--- Symbol Table ---
+a -> false
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+(a=true;((IF(a) THEN(v=2)ELSE(v=3));print(v)))
+--- Symbol Table ---
+a -> false
+v -> 0
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+a=true
+((IF(a) THEN(v=2)ELSE(v=3));print(v))
+--- Symbol Table ---
+a -> false
+v -> 0
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+((IF(a) THEN(v=2)ELSE(v=3));print(v))
+--- Symbol Table ---
+a -> true
+v -> 0
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+(IF(a) THEN(v=2)ELSE(v=3))
+print(v)
+--- Symbol Table ---
+a -> true
+v -> 0
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+v=2
+print(v)
+--- Symbol Table ---
+a -> true
+v -> 0
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+print(v)
+--- Symbol Table ---
+a -> true
+v -> 2
+--- Output ---
+--- File Table ---
+---------------------------------
+--- Execution Stack ---
+--- Symbol Table ---
+a -> true
+v -> 2
+--- Output ---
+2
+--- File Table ---
+---------------------------------
