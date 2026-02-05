@@ -146,6 +146,7 @@ public class Interpreter {
                                                                                 new CompStmt(new NopStmt(),
                                                                                         new CompStmt(new NopStmt(),
                                                                                                 new CompStmt(new NopStmt(),
+
                                                                                                         new PrintStmt(new VarExp("x")))))))))
                                         )
                                 )
