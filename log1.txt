@@ -1,6 +1,6 @@
-ID: 1
+ID: 5
 --- Execution Stack ---
-(int v;(v=2;print(v)))
+(int v;(int x;(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))))
 
 --- Symbol Table ---
 
@@ -12,25 +12,10 @@ ID: 1
 
 ----------------------------------------------------------------
 
-ID: 1
---- Execution Stack ---
-int v
-(v=2;print(v))
-
---- Symbol Table ---
-
---- Output ---
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
+ID: 5
 --- Execution Stack ---
 int v
-(v=2;print(v))
+(int x;(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))))))
 
 --- Symbol Table ---
 
@@ -42,10 +27,10 @@ int v
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
 int v
-(v=2;print(v))
+(int x;(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))))))
 
 --- Symbol Table ---
 
@@ -57,10 +42,10 @@ int v
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
 int v
-(v=2;print(v))
+(int x;(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))))))
 
 --- Symbol Table ---
 
@@ -72,13 +57,12 @@ int v
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int v
+(int x;(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))))))
 
 --- Symbol Table ---
-v -> 0
 
 --- Output ---
 
@@ -88,26 +72,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
-
---- Symbol Table ---
-v -> 0
-
---- Output ---
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -120,10 +88,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -136,10 +104,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -152,10 +120,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -168,10 +136,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -184,10 +152,10 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
-v=2
-print(v)
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
 v -> 0
@@ -200,14 +168,15 @@ v -> 0
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -215,14 +184,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+int x
+(v=3;(x=2;(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -230,14 +200,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -245,14 +217,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -260,14 +234,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -275,14 +251,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -290,14 +268,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -305,14 +285,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -320,14 +302,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -335,14 +319,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -350,14 +336,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -365,14 +353,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -380,14 +370,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -395,14 +387,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -410,14 +404,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -425,14 +421,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -440,14 +438,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -455,14 +455,16 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+x=2
+(repeat (fork((print(v);(x=(x - 1);print(x))));v=(v + 1)) as (v == 0);(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x)))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 0
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -470,14 +472,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -485,14 +488,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -500,14 +504,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -515,14 +520,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -530,14 +536,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -545,14 +552,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -560,14 +568,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -575,14 +584,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -590,14 +600,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -605,14 +616,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -620,14 +632,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -635,14 +648,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -650,14 +664,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 6
 --- Execution Stack ---
+(print(v);(x=(x - 1);print(x)))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -665,14 +680,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -680,14 +696,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -695,14 +712,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -710,14 +728,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -725,14 +744,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -740,14 +760,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -755,14 +776,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -770,14 +792,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -785,14 +808,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -800,14 +824,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -815,14 +840,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -830,14 +856,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -845,14 +872,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -860,14 +888,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -875,14 +904,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 6
 --- Execution Stack ---
+(print(v);(x=(x - 1);print(x)))
 
 --- Symbol Table ---
-v -> 2
+v -> 3
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -890,14 +920,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
 
 --- File Table ---
 
@@ -905,1184 +936,15 @@ v -> 2
 
 ----------------------------------------------------------------
 
-ID: 1
+ID: 5
 --- Execution Stack ---
+(nop;(nop;(nop;(nop;(nop;(nop;(nop;print(x))))))))
 
 --- Symbol Table ---
-v -> 2
+v -> 4
+x -> 2
 
 --- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
-
---- File Table ---
-
---- Heap ---
-
-----------------------------------------------------------------
-
-ID: 1
---- Execution Stack ---
-
---- Symbol Table ---
-v -> 2
-
---- Output ---
-2
 
 --- File Table ---
 

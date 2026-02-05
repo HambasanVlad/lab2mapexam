@@ -118,7 +118,41 @@ public class Interpreter {
                                                                 new AssignStmt("timer", new ArithExp('+', new VarExp("timer"), new ValueExp(new IntValue(1))))),
                                                                 new PrintStmt(new ReadHeapExp(new VarExp("a")))))))))));
         examples.add(ex11);*/
+        // Ex 11: Fork (A5)
 
+
+        // ... existing imports
+// Problem 1: Repeat...As
+        IStmt exRepeat = new CompStmt(new VarDeclStmt("v", new IntType()),
+                new CompStmt(new VarDeclStmt("x", new IntType()),
+                        new CompStmt(new AssignStmt("v", new ValueExp(new IntValue(3))),
+                                new CompStmt(new AssignStmt("x", new ValueExp(new IntValue(2))),
+                                        new CompStmt(
+                                                new RepeatStmt(
+                                                        new CompStmt(
+                                                                new ForkStmt(
+                                                                        new CompStmt(new PrintStmt(new VarExp("v")),
+                                                                                new CompStmt(new AssignStmt("x", new ArithExp('-', new VarExp("x"), new ValueExp(new IntValue(1)))),
+                                                                                        new PrintStmt(new VarExp("x"))))
+                                                                ),
+                                                                new AssignStmt("v", new ArithExp('+', new VarExp("v"), new ValueExp(new IntValue(1))))
+                                                        ),
+                                                        new RelationalExp("==", new VarExp("v"), new ValueExp(new IntValue(0))) // exp2: v==0
+                                                ),
+                                                new CompStmt(new NopStmt(),
+                                                        new CompStmt(new NopStmt(),
+                                                                new CompStmt(new NopStmt(),
+                                                                        new CompStmt(new NopStmt(),
+                                                                                new CompStmt(new NopStmt(),
+                                                                                        new CompStmt(new NopStmt(),
+                                                                                                new CompStmt(new NopStmt(),
+                                                                                                        new PrintStmt(new VarExp("x")))))))))
+                                        )
+                                )
+                        )
+                )
+        );
+        examples.add(exRepeat);
         return examples;
     }
 
