@@ -3,6 +3,8 @@ package model.adt;
 import exception.MyException;
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.List;
+import java.util.ArrayList;
 
 public class MyStack<T> implements MyIStack<T> {
     private Deque<T> stack;
@@ -12,7 +14,7 @@ public class MyStack<T> implements MyIStack<T> {
     }
 
     @Override
-    public synchronized T pop() throws MyException { // Adaugat synchronized
+    public synchronized T pop() throws MyException {
         if (stack.isEmpty()) {
             throw new MyException("Stack is empty. Cannot pop.");
         }
@@ -20,17 +22,18 @@ public class MyStack<T> implements MyIStack<T> {
     }
 
     @Override
-    public synchronized void push(T v) { // Adaugat synchronized
+    public synchronized void push(T v) {
         stack.push(v);
     }
 
     @Override
-    public synchronized boolean isEmpty() { // Adaugat synchronized
+    public synchronized boolean isEmpty() {
         return stack.isEmpty();
     }
 
-    @Override
-    public synchronized T peek() throws MyException { // Adaugat synchronized
+    // Am scos @Override temporar. Dacă primești eroare că metoda lipsește din MyIStack,
+    // adaug-o în interfața MyIStack.java mai întâi!
+    public synchronized T peek() throws MyException {
         if (stack.isEmpty()) {
             throw new MyException("Stack is empty. Cannot peek.");
         }
@@ -39,8 +42,7 @@ public class MyStack<T> implements MyIStack<T> {
 
     @Override
     public String toString() {
-        // Sincronizam explicit pe obiectul stack in timpul iterarii
-        // pentru a preveni ConcurrentModificationException cand GUI-ul face refresh
+        // Sincronizare esențială pentru afișare fără erori
         synchronized (this) {
             StringBuilder sb = new StringBuilder();
             for (T elem : stack) {
@@ -50,9 +52,8 @@ public class MyStack<T> implements MyIStack<T> {
         }
     }
 
-    // Dacă ai nevoie de o metodă care returnează lista pentru GUI (reverse order),
-    // asigură-te că și ea este sincronizată!
-    public synchronized java.util.List<T> getValues() {
-        return new java.util.ArrayList<>(stack);
+    // Metodă sincronizată pentru GUI
+    public synchronized List<T> getValues() {
+        return new ArrayList<>(stack);
     }
 }
