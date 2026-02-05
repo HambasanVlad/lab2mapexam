@@ -14,7 +14,7 @@ public class Interpreter {
         List<IStmt> examples = new ArrayList<>();
 
         // Ex 1: int v; v=2; Print(v)
-        IStmt ex1 = new CompStmt(new VarDeclStmt("v", new IntType()),
+        /*IStmt ex1 = new CompStmt(new VarDeclStmt("v", new IntType()),
                 new CompStmt(new AssignStmt("v", new ValueExp(new IntValue(2))),
                         new PrintStmt(new VarExp("v"))));
         examples.add(ex1);
@@ -117,7 +117,7 @@ public class Interpreter {
                                                         new CompStmt(new WhileStmt(new RelationalExp("<", new VarExp("timer"), new ValueExp(new IntValue(10))),
                                                                 new AssignStmt("timer", new ArithExp('+', new VarExp("timer"), new ValueExp(new IntValue(1))))),
                                                                 new PrintStmt(new ReadHeapExp(new VarExp("a")))))))))));
-        examples.add(ex11);
+        examples.add(ex11);*/
 
         return examples;
     }
